@@ -1,0 +1,1 @@
+klasifikasi invasive ductal carcinoma menggunakan CNN dengan VGG16 dan MobileNet. klasifikasi ini terdiri dari dua kategori yaitu IDC positif (1) dan IDC negatif(-)
